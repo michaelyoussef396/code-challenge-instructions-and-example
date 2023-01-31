@@ -1,4 +1,4 @@
-# Module Assessments and Instructions
+# Module Assessments and Instructions.
 
 ## Introduction
 

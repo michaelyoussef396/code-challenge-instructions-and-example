@@ -38,33 +38,6 @@ Below, we've provided instructions for how to work on and submit your future
 code challenges. This lesson is structured the same way they will be, so feel
 free to practice here.
 
-## Installing Python
-
-Before you can start working on a code challenge, you must check if you have
-Python installed on your system.
-
-While you do not need to know or write any Python code to solve these
-challenges, you will be running provided Python scripts to start the challenge.
-
-To check if you have Python installed, open up the terminal and run the command:
-`python --version`.
-
-If you receive output telling you what version of Python you have, such as:
-
-```bash
-$ python --version
-> Python 3.8.13
-```
-
-This means you already have Python installed. You can skip the rest of this
-section and move onto the section below.
-
-If you receive anything other than a Python version, refer to the Python
-installation lessons for your OS in this Code Challenge module.
-
-Once you've successfully installed Python, you can continue to the section
-below.
-
 ## Instructions for Working on and Submitting Code Challenge
 
 When a code challenge is published, it will be available in the Code Challenges

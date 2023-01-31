@@ -40,37 +40,37 @@ free to practice here.
 
 ## Instructions for Working on and Submitting Code Challenge
 
-Before you can start working on a code challenge, you must follow the steps
+When a code challenge is published, it will be available in the Code Challenges
+module of this course.
+
+Once it's available, you must start the code challenge by following the steps
 below:
 
-* Once your code challenge is published, it will be available in the Code
-  Challenges module of this course.
-* Find and open the code challenge assignment and download the linked ZIP file
-* Unzip the file on your computer
-* In your terminal, change directory (`cd`) into the unzipped challenge directory
-* Run `ls`; you should see a `bin/` directory and a `code-challenge.bundle` file)
-* Run `ruby bin/start <your-name>`  from the directory; this will create a new
+- Find and open the code challenge assignment in Canvas and download the linked
+  ZIP file
+- Unzip the file on your computer
+- In your terminal, change directory (`cd`) into the unzipped challenge
+  directory
+- Run `ls`; you should see a `bin/` directory and a `code-challenge.bundle`
+  file)
+- Run `./bin/start <your-name>` from the directory; this will create a new
   directory called `code-challenge/`
-* `cd` into the new `code-challenge/` directory and open it in your code editor
+- `cd` into the new `code-challenge/` directory and open it in your code editor
 
 To work on your code challenge:
 
-* Ensure that you're in the `code-challenge/` directory
-* Follow the instructions in the `README.md` file
-* `git add .` and `git commit` inside of the `code-challenge/` directory often
+- Ensure that you're in the `code-challenge/` directory
+- Follow the instructions in the `README.md` file
+- `git add .` and `git commit` inside of the `code-challenge/` directory often
   as you're working
 
 To submit the code challenge:
 
-* Navigate to the **parent directory** of `code-challenge/` in your terminal
-* Run `ruby bin/end`, which will create a new file, `<your-name>.bundle` in that
+- Navigate to the **parent directory** of `code-challenge/` in your terminal
+- Run `./bin/end`, which will create a new file, `<your-name>.bundle` in that
   directory (for example, `alicia.bundle`)
-* Navigate back to the code challenge assignment in Canvas
-* Upload `<your-name>.bundle` to the assignment and submit
+- Navigate back to the code challenge assignment in Canvas
+- Upload `<your-name>.bundle` to the assignment and submit
 
 **Reach out to your instructors immediately** if you run into issues
 downloading, working on, or uploading your code challenge.
-
-Use this video to guide you through these instructions:
-
-<iframe width="560" height="315" src="https://youtu.be/3AM3qXUtnQY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -53,7 +53,7 @@ below:
   directory
 - Run `ls`; you should see a `bin/` directory and a `code-challenge.bundle`
   file)
-- Run `./bin/start <your-name>` from the directory; this will create a new
+- Run `./bin/start.py <your-name>` from the directory; this will create a new
   directory called `code-challenge/`
 - `cd` into the new `code-challenge/` directory and open it in your code editor
 
@@ -67,7 +67,7 @@ To work on your code challenge:
 To submit the code challenge:
 
 - Navigate to the **parent directory** of `code-challenge/` in your terminal
-- Run `./bin/end`, which will create a new file, `<your-name>.bundle` in that
+- Run `./bin/end.py`, which will create a new file, `<your-name>.bundle` in that
   directory (for example, `alicia.bundle`)
 - Navigate back to the code challenge assignment in Canvas
 - Upload `<your-name>.bundle` to the assignment and submit

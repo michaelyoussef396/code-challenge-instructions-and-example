@@ -55,6 +55,7 @@ below:
   file)
 - Run `./bin/start.py <your-name>` from the directory; this will create a new
   directory called `code-challenge/`
+    - If you receive permission errors during this step, run `chmod +x ./bin/start.py` to give the file executable permissions, then try again.
 - `cd` into the new `code-challenge/` directory and open it in your code editor
 
 To work on your code challenge:
@@ -69,6 +70,7 @@ To submit the code challenge:
 - Navigate to the **parent directory** of `code-challenge/` in your terminal
 - Run `./bin/end.py`, which will create a new file, `<your-name>.bundle` in that
   directory (for example, `alicia.bundle`)
+    - If you receive permission errors during this step, run `chmod +x ./bin/end.py` to give the file executable permissions, then try again.
 - Navigate back to the code challenge assignment in Canvas
 - Upload `<your-name>.bundle` to the assignment and submit
 
